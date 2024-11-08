@@ -1,3 +1,6 @@
+# Create two 2x3 matrices.
+# Terdapat Codingan Baru
+# Yaitu Perhitungan rata-rata
 # Survey data
 survey <- data.frame(
   customer_id = 1:5,
